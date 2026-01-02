@@ -1,0 +1,20 @@
+# Папки с входными и выходными изображениями
+.idea
+
+/dist/input_heic/
+/dist/output_jpg/
+
+# Артефакты сборки PyInstaller
+build/
+dist/
+*.spec
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Виртуальные окружения
+venv/
+.env/
